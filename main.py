@@ -1,3 +1,4 @@
+import os
 print("test1")
 print("test2")
 print("test3")
@@ -13,3 +14,5 @@ print("test12")
 print("test13")
 print("test14")
 print("plus")
+print("minus")
+print("multiply")
